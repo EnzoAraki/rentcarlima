@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: sans-serif;
+}
+.container {
+    background-image: url(./img/banner1.jpg);
+    background-color: #896f31;
+    border: none;
+    display: flex;
+    height: 40em;
+    width: 100%;
+}
+.columna {
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+.columna p {
+    margin-bottom: 20px;
+}
+.columna h1 {
+    font-size: 50px;
+    color: white;
+}
+.btn1 {
+    border: 2px solid goldenrod;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 25px;
+    background-color: goldenrod;
+}
+.a1{
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    margin: 1em;
+}
+.f2 {
+    font-size: 2em;
+    text-align: center;
+    margin: 1%;
+    color: goldenrod;
+}
+.salto{
+    font-size: 0;
+}
+.f3 {
+    font-size: 2em;
+    text-align: center;
+    margin: 1%;
+    color: darkslateblue;
+}
+.p{
+    font-size: 1em;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.a2{
+    font-size: 1em;
+    color: #7dbff2;
+    margin: 0%;
+    padding: 0;
+}
+.tabla{
+    border: none;
+    display: flex;
+    height: 25em;
+    padding-left:10%;
+    padding-right:10%;
+}
+.columna1{
+    border: 2px solid white;
+    width: 16%;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+}
+.a3{
+    font-size: 1em;
+    color: #459bea;
+    margin-top: 10px;
+}
+.p1{
+    margin-top: 10px;
+}
+.img1{
+    max-width: 230px;
+}
+.btn2 {
+    border: 2px solid goldenrod;
+    color: white;
+    text-decoration: none;
+    padding: 13px 20px;
+    font-size: 15px;
+    background-color: goldenrod;
+}
+.container3 {
+    background-image: url(../img/banner1.jpg);
+    background-color: #896f31;
+    border: none;
+    height: 40em;
+    width: 100%;
+}
+.container4 {
+    background-image: url(../img/banner1.jpg);
+    background-color: #165092;
+    border: none;
+    display: flex;
+    height: 15em;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.container5 {
+    background-image: url(../img/banner1.jpg);
+    background-color: #1e2b38;
+    border: none;
+    display: flex;
+    justify-content: center;
+    height: 20em;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.a4{
+    text-align: center;
+    font-size: 1em;
+    color: #d89805;
+    padding-top: 3%;
+}
+.a5{
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+.a6{
+    text-align: center;
+    font-size: 1em;
+    color: white;   
+}
+.tabla2{
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15em;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top: 5%;
+}
+.columna3{
+    width: 33%;
+    margin: 1%;
+    text-align: justify;
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    padding: 2%;
+}
+.columna3 .img2{
+height: 2em;
+padding: 0;
+margin: 0;
+}
+.p3{
+padding-top: 3%;
+}
+.pp4{
+    font-size:11px;
+}
+.columna4{
+    width: 25%;
+    margin: 5%;
+    display: flex;
+    text-align: justify;
+    height: 100px;
+    width: 200px;
+    padding-left: 1%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+}
+.h4{
+    font-size: 23px;
+    color: white;
+}
+.columnasec1 p {
+    color: white;
+}
+.columnasec{
+    display: flex;
+    width: 25%;
+    margin-right: 10px;
+}
+.columnasec img{
+    max-height: 50px;
+}
+.p6{
+    color: white;
+}
+.h5{
+    color: white;
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+.btn3 {
+    border: 2px solid goldenrod;
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 15px;
+    background-color: goldenrod;
+    margin-top: 5%;
+    width: 50%;
+}
+.columna5{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin: 3%;
+    padding-left: 1%;
+    padding-top: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+}
+.columna5 li{
+    text-align: justify;
+    color: white;
+}
+.columna5 img{
+    padding-top: 10%;
+    height: 70%;
+    width: 100%;
+}
